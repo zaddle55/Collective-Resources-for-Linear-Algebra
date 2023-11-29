@@ -13,5 +13,7 @@ Collective Resources for Linear Algebra
 </p>
 
 ## 序言
-本项目为**SUSTech-MA113**的课程资料整理，包含课程参考书籍、往年试卷整理
+本项目为**SUSTech-MA113**的课程资料整理，包含课程参考书籍、往年试卷整理、练习题、网络学习资源等，
+
+------------
 
