@@ -1,6 +1,6 @@
 
 <p align="center">
- <a href="https://smms.app/image/UiNF9OmVSWChkGT" target="_blank"><img src="https://s2.loli.net/2023/11/29/UiNF9OmVSWChkGT.jpg" ></a>
+ <a href="https://smms.app/image/UiNF9OmVSWChkGT" target="_blank"><img src="https://s2.loli.net/2023/11/29/UiNF9OmVSWChkGT.jpg" width = 512 ></a>
 </p>
 <h1 align="center">
 Collective Resources for Linear Algebra
