@@ -70,3 +70,7 @@ Collective Resources for Linear Algebra
  <summary>特征值、特征向量</summary>
 
  </details>
+
+-----
+
+<p align="center">更新中...</p>
