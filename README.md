@@ -45,8 +45,11 @@ Collective Resources for Linear Algebra
  
  <summary>线性空间与秩</summary>
 
+ 1.[矩阵的秩的不等式汇总及其部分证明(知乎)](https://zhuanlan.zhihu.com/p/341263037)<br>
+ 2.[Frobenius不等式与sylvester不等式(知乎)](https://zhuanlan.zhihu.com/p/129064037)<br>
+
  </details>
- 
+
  <details>
  
  <summary>线性映射与线性变换</summary>
@@ -55,13 +58,17 @@ Collective Resources for Linear Algebra
  
 <details>
  
- <summary>最小二乘与正交化</summary>
+ <summary>最小二乘与正交性</summary>
+
+ 1.[线性代数之最小二乘法及原理(知乎)](https://zhuanlan.zhihu.com/p/38302609)<br>
 
  </details>
  
  <details>
  
  <summary>行列式及其应用</summary>
+
+ 1.[八大类型行列式及其解法(知乎)](https://zhuanlan.zhihu.com/p/34685081)<br>
 
  </details>
 
