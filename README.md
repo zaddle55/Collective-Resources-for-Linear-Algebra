@@ -33,7 +33,8 @@ Collective Resources for Linear Algebra
 <summary>综合性资源：</summary>
 
 1.[MIT Strang教授线性代数公开课(Bilibili)](https://www.bilibili.com/video/BV16Z4y1U7oU/?spm_id_from=333.788.recommend_more_video.1&vd_source=2cb7e5e4db88cc829ffc7d7ae54d0730)<br>
-2.[【数学】线性代数知识点总结（精炼版）(知乎)](https://zhuanlan.zhihu.com/p/453305373)
+2.[【数学】线性代数知识点总结（精炼版）(知乎)](https://zhuanlan.zhihu.com/p/453305373)<br>
+3.[周志成教授-线代启示录](https://ccjou.wordpress.com/)
 
 </details>
 
