@@ -79,6 +79,14 @@ Collective Resources for Linear Algebra
 
  </details>
 
+## 实用工具
+
+### 矩阵计算程式
+
+1.[MatrixCalc](https://matrixcalc.org/)<br>
+2.[MathsTools](https://www.mathstools.com/)<br>
+3.[WolframAlpha-MatrixCalculator](https://www.wolframalpha.com/input/?i=matrix+calculator)<br>
+
 -----
 
 <p align="center">更新中...</p>
