@@ -21,6 +21,9 @@ Collective Resources for Linear Algebra
 
 - 《*高等代数简明教程*》 蓝以中
 
+- 《*Linear Algebra
+ Done Right( 4th Edition )*》 Sheldon Axler
+
 ## 试卷
 包括自2017-2023年SUSTech线性代数课程的各学期期中、期末试卷及参考答案，其中仍然缺少部分学期试卷及答案，欢迎补充。
 
@@ -34,7 +37,8 @@ Collective Resources for Linear Algebra
 
 1.[MIT Strang教授线性代数公开课(Bilibili)](https://www.bilibili.com/video/BV16Z4y1U7oU/?spm_id_from=333.788.recommend_more_video.1&vd_source=2cb7e5e4db88cc829ffc7d7ae54d0730)<br>
 2.[【数学】线性代数知识点总结（精炼版）(知乎)](https://zhuanlan.zhihu.com/p/453305373)<br>
-3.[周志成教授-线代启示录](https://ccjou.wordpress.com/)
+3.[周志成教授-线代启示录](https://ccjou.wordpress.com/)<br>
+4.[浙江大学竺可桢学院辅学计划站点-线性代数：未竟之美](https://ckc-agc.bowling233.top/lalu/)<br>
 
 </details>
 
@@ -48,6 +52,7 @@ Collective Resources for Linear Algebra
 
  1.[矩阵的秩的不等式汇总及其部分证明(知乎)](https://zhuanlan.zhihu.com/p/341263037)<br>
  2.[Frobenius不等式与sylvester不等式(知乎)](https://zhuanlan.zhihu.com/p/129064037)<br>
+ 3.[关于矩阵的三个重要秩不等式的多种证法（初学食用，“易懂”）(知乎)](https://zhuanlan.zhihu.com/p/667260847)<br>
 
  </details>
 
@@ -77,11 +82,13 @@ Collective Resources for Linear Algebra
  
  <summary>特征值、特征向量</summary>
 
+ 1.[Cayley-Hamilton定理(知乎)](https://zhuanlan.zhihu.com/p/49119054)<br>
+
  </details>
 
 ## 实用工具
 
-### 矩阵计算程式
+### Ⅰ 矩阵计算程式
 
 1.[MatrixCalc](https://matrixcalc.org/)<br>
 2.[MathsTools](https://www.mathstools.com/)<br>
@@ -90,3 +97,4 @@ Collective Resources for Linear Algebra
 -----
 
 <p align="center">更新中...</p>
+
