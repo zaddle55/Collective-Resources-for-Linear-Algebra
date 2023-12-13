@@ -1,6 +1,6 @@
 
 <p align="center">
- <a href="https://www.pixiv.net/artworks/29860117" target="_blank"><img src="https://s2.loli.net/2023/11/29/UiNF9OmVSWChkGT.jpg" width = 512 ></a>
+  <a href="https://www.pixiv.net/artworks/29860117" target="_blank"><img src="https://s2.loli.net/2023/11/29/UiNF9OmVSWChkGT.jpg" width = 512 ></a>
 </p>
 <h1 align="center">
 Collective Resources for Linear Algebra
@@ -12,9 +12,11 @@ Collective Resources for Linear Algebra
 </p>
 
 ## 序言
+
 本项目为**SUSTech-MA113**的课程资料整理，包含课程笔记( *更新中* ) 、参考书籍、往年试卷整理、练习题、网络学习资源等。由于本人搜集到的资料有限，愿意分享手头资料的同学可对本项目添加文件进行贡献。
 
 ## 参考书
+
 - 《*Linear Algebra and its applications( 4th Edition )*》 Gilbert Strang
 
 - 《*高等代数（上）*》 丘维声
@@ -25,6 +27,7 @@ Collective Resources for Linear Algebra
  Done Right( 4th Edition )*》 Sheldon Axler
 
 ## 试卷
+
 包括自2017-2023年SUSTech线性代数课程的各学期期中、期末试卷及参考答案，其中仍然缺少部分学期试卷及答案，欢迎补充。
 
 ### 1 **历年期中试题**
