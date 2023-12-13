@@ -55,7 +55,7 @@ Collective Resources for Linear Algebra
 | 2016-2017春  | 暂无  |暂无 |
 | 2017-2018秋  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2017-2018FA%20final.pdf)  |[电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2017-2018FA%20solutions.pdf) |
 | 2017-2018春  | 暂无  |暂无 |
-| 2018-2019秋  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2018-2019FA%20final.pdf)  |[电子版(需修复)](http://127.0.0.1) |
+| 2018-2019秋  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2018-2019FA%20final.pdf)  |[电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2018-2019FA%20solutions.pdf) |
 | 2018-2019春  | 暂无  |暂无 |
 | 2019-2020秋  | 暂无  |暂无 |
 | 2019-2020春  | 暂无  |暂无 |
