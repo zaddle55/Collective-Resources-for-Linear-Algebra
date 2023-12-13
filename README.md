@@ -151,4 +151,4 @@ Collective Resources for Linear Algebra
 
 -----
 
-<p align="center">更新中....</p>
+<p align="center">更新中.....</p>
