@@ -59,10 +59,10 @@ Collective Resources for Linear Algebra
 | 2017-2018秋  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2017-2018FA%20final.pdf)  |[电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2017-2018FA%20solutions.pdf) |
 | 2017-2018春  | 暂无  |暂无 |
 | 2018-2019秋  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2018-2019FA%20final.pdf)  |[电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2018-2019FA%20solutions.pdf) |
-| 2018-2019春  | [电子版]()  |暂无 |
-| 2019-2020秋  | [电子版]()  |暂无 |
+| 2018-2019春  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2018-2019%20SA%20final.pdf)  |暂无 |
+| 2019-2020秋  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2019-2020%20FA%20final.pdf)  |暂无 |
 | 2019-2020春  | 暂无  |暂无 |
-| 2020-2021秋  | [A卷]() [B卷]()  |[A卷]() [B卷]() |
+| 2020-2021秋  | [A卷](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2020-2021%20FA%20final.pdf) [B卷](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2020-2021%20FB%20final.pdf)  |[A卷](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2020-2021%20FA%20final-solutions.pdf) [B卷](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2020-2021%20FB%20final-solutions.pdf) |
 | 2020-2021春  | 暂无  |暂无 |
 | 2021-2022秋  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2021-2022%20FA%20final.pdf)  |暂无 |
 | 2021-2022春  | 暂无  |暂无 |
