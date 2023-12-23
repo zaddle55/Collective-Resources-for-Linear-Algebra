@@ -151,4 +151,11 @@ Collective Resources for Linear Algebra
 
 -----
 
+## 如何对本项目进行贡献
+
+1. 在 `Issue` 中创建一个新议题，简要描述需要上传的内容。
+2. 将分支 `main` 复刻到自己的github仓库中,进行文件的添加与修改。
+3. 转到本仓库 `Branches` 下的 `Contribute` 分支，将修改后的 `main` 分支push到该分支中。
+4. 在 `Pull Request` 中拉取向主分支合并的请求，管理者审核后将进行合并。
+
 <p align="center">更新中.....</p>
