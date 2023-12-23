@@ -158,4 +158,6 @@ Collective Resources for Linear Algebra
 3. 转到本仓库 `Branches` 下的 `Contribute` 分支，将修改后的 `main` 分支push到该分支中。
 4. 在 `Pull Request` 中拉取向主分支合并的请求，管理者审核后将进行合并。
 
+---
+
 <p align="center">更新中.....</p>
