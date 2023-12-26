@@ -66,7 +66,7 @@ Collective Resources for Linear Algebra
 | 2020-2021春  | 暂无  |暂无 |
 | 2021-2022秋  | [电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2021-2022%20FA%20final.pdf)  |暂无 |
 | 2021-2022春  | 暂无  |暂无 |
-| 2022-2023秋  | 暂无  |暂无 |
+| 2022-2023秋  | [A卷](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20FA%20final.pdf) [B卷(扫描版)](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20FB%20final.pdf) |暂无 |
 | 2022-2023春  | [样卷](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20SA%20Final-Sample/Final%20Sample%201%20.pdf)  |[样卷(手写版)](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20SA%20Final-Sample/Final%20Sample%201%20.pdf) |
 | 2023-2024秋  | 即将推出  |即将推出  |
 
