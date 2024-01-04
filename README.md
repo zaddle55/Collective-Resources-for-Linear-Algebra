@@ -19,7 +19,7 @@ Collective Resources for Linear Algebra
 
 - 《*Linear Algebra and its applications( 4th Edition )*》 Gilbert Strang
 
-- 《*高等代数（上）*》 丘维声
+- 《*高等代数*》 丘维声
 
 - 《*高等代数简明教程*》 蓝以中
 
