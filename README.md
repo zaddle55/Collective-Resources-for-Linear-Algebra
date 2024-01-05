@@ -111,7 +111,7 @@ Collective Resources for Linear Algebra
  
 <details>
  
- <summary>最小二乘与正交性</summary>
+ <summary>正交性</summary>
 
  1.[线性代数之最小二乘法及原理(知乎)](https://zhuanlan.zhihu.com/p/38302609)<br>
 
@@ -135,7 +135,25 @@ Collective Resources for Linear Algebra
 
  <details>
  
- <summary>正定性与二次型</summary>
+ <summary>双线性型</summary>
+
+ </details>
+
+ <details>
+ 
+ <summary>SVD分解</summary>
+
+ </details>
+
+ <details>
+ 
+ <summary>优化问题</summary>
+
+ </details>
+
+ <details>
+ 
+ <summary>微分方程</summary>
 
  </details>
 
