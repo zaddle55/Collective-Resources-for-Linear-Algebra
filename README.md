@@ -83,7 +83,7 @@ Collective Resources for Linear Algebra
 3.[周志成教授-线代启示录](https://ccjou.wordpress.com/)<br>
 4.[浙江大学竺可桢学院辅学计划站点-线性代数：未竟之美](https://ckc-agc.bowling233.top/lalu/)<br>
 5.[思维、数学与礼空(知乎专栏)](https://www.zhihu.com/column/c_1259973839334813696)<br>
-
+6.[ustc线性代数笔记](http://staff.ustc.edu.cn/~mathsu01/note/xxds.html#title)
 </details>
 
 <details open>
