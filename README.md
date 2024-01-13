@@ -169,7 +169,7 @@ Collective Resources for Linear Algebra
 
 ### Ⅱ 搜索程式、交流论坛
 1.[Stack Exchange-Math](https://math.stackexchange.com/)<br>
-2.[Aproach Zero](https://approach0.xyz/search/)<br>
+2.[Approach Zero](https://approach0.xyz/search/)<br>
 
 -----
 
