@@ -167,6 +167,10 @@ Collective Resources for Linear Algebra
 2.[MathsTools](https://www.mathstools.com/)<br>
 3.[WolframAlpha-MatrixCalculator](https://www.wolframalpha.com/input/?i=matrix+calculator)<br>
 
+### Ⅱ 搜索程式、交流论坛
+1.[Stack Exchange-Math](https://math.stackexchange.com/)<br>
+2.[Aproach Zero](https://approach0.xyz/search/)<br>
+
 -----
 
 ## 如何对本项目进行贡献
