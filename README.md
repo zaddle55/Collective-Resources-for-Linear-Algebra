@@ -49,6 +49,7 @@ Collective Resources for Linear Algebra
 | 2022-2023秋  |暂无   |[手写版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20FA%20Midterm-solution.pdf)   |
 | 2022-2023春  |暂无   |暂无   |
 | 2023-2024秋  |[电子版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2023-2024%20FA%20Midterm.pdf)   |[手写版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2023-2024%20FA%20Midterm-solution.pdf)   |
+| 2023-2024春  | 即将推出 | 即将推出 |
 
 ### 2 **历年期末试题**
 
