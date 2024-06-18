@@ -70,7 +70,7 @@ Collective Resources for Linear Algebra
 | 2022-2023秋  | [A卷](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20FA%20final.pdf) [B卷(扫描版)](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20FB%20final.pdf) |[B卷(手写版)](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20FB%20final-solution%20.pdf) |
 | 2022-2023春  | [样卷1](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20SA%20Final-Sample/Final%20Sample%201%20.pdf)  |[样卷1(手写版)](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20SA%20Final-Sample/Solutions%20to%20Smple%201.pdf) |
 | 2023-2024秋  | [样卷2](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2022-2023%20SA%20Final-Sample/Final%20Sample%202.pdf) [扫描版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2023-2024%20FB%20final.pdf) |[手写版](https://github.com/zaddle55/Collective-Resources-for-Linear-Algebra/blob/main/Exam/2023-2024%20FB%20final-solution.pdf)  |
-| 2023-2024春  | 即将推出 | 即将推出 |
+| 2023-2024春  | [扫描版]() | 即将推出 |
 
 ## 练习题
 
